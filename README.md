@@ -1,10 +1,10 @@
 # Data Science and Engineering
 ## DAMG 6105 - Seattle, Fall 2021
-Course Title: Data Science Engineering methods and tools
-Instructor: Ramkumar Hariharan `<r.hariharan@northeastern.edu>`
-Course Number: DAMG 6105, CRN 19938
-Term and Year: Fall 2021
-Credit Hour: 4 credits
+Course Title: Data Science Engineering methods and tools  
+Instructor: Ramkumar Hariharan `<r.hariharan@northeastern.edu>`  
+Course Number: DAMG 6105, CRN 19938  
+Term and Year: Fall 2021  
+Credit Hour: 4 credits  
 Location: On the ground, Seattle campus
 
 ## About this course
